@@ -1,1 +1,9 @@
 1	Star Wars: Episodio I - La amenaza fantasma
+2 Episodio II: el ataque de los clones
+3 Episodio III: la venganza de los sith
+4 Episodio IV: una nueva esperanza
+5 Episodio V: el imperio contraataca
+6 Episodio VI: el retorno del Jedi
+7 Episodio VII: el despertar de la fuerza
+8 Episodio VIII: el último jedi
+9 Episodio IX: el ascenso de Skywalker
